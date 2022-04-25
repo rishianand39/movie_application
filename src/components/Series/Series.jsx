@@ -1,4 +1,5 @@
 import axios from "axios";
+
 import { useEffect, useState } from "react";
 import CustomPagination from "../Pagination/CustomPagination";
 import SingleContent from "../SingleContent/SingleContent";
@@ -10,7 +11,7 @@ const TVSeries = () => {
 
   const fetchMovies = async () => {
     const { data } = await axios.get(
-      `https://api.themoviedb.org/3/discover/movie?api_key=${process.env.REACT_APP_api_key}&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${page}`
+      `https://api.themoviedb.org/3/discover/tv?api_key=${process.env.REACT_APP_api_key}&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${page}`
     );
     setContent(data.results);
     setNumOfPages(data.total_pages);
