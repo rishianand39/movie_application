@@ -23,7 +23,7 @@ const TVSeries = () => {
 
   return (
     <div>
-      <span className="pageTitle">Movies</span>
+      <span className="pageTitle">Tv Series</span>
 
       <div className="trending">
         {content &&
