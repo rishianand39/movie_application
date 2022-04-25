@@ -8,13 +8,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/ZKhznYyf/Screenshot-from-2022-04-25-20-12-48.png" alt="project-screenshot" width="400" height="400/">
-<br/>
-<img src="https://i.postimg.cc/qqsYynC1/Screenshot-from-2022-04-25-20-13-12.png" alt="project-screenshot" width="400" height="400/">
-<br/>
-<img src="https://i.postimg.cc/7L5WXj2G/Screenshot-from-2022-04-25-20-13-48.png" alt="project-screenshot" width="400" height="400/">
-<br/>
-<img src="https://i.postimg.cc/dVxW7nxq/Screenshot-from-2022-04-25-20-15-23.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.postimg.cc/ZKhznYyf/Screenshot-from-2022-04-25-20-12-48.png" alt="project-screenshot" width="70%" height="400/">
+
+<img src="https://i.postimg.cc/qqsYynC1/Screenshot-from-2022-04-25-20-13-12.png" alt="project-screenshot" width="70%" height="400/">
+
+<img src="https://i.postimg.cc/7L5WXj2G/Screenshot-from-2022-04-25-20-13-48.png" alt="project-screenshot" width="70%" height="400/">
+
+<img src="https://i.postimg.cc/dVxW7nxq/Screenshot-from-2022-04-25-20-15-23.png" alt="project-screenshot" width="70%" height="400/">
 
   
   
